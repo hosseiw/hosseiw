@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <a href="https://instagram.com/weblax.ir"><img src="./logo.png" alt="omidbaharifar" width="200"></a>
+  <a href="https://hosseiw.ir"><img src="./logo.png" alt="hosseinaraby" width="200"></a>
   <br>
-  Omid Baharifar (weblax)
+  Hossein Araby (hosseiw)
 </h1>
 
 <h4 align="center">This is Araby! A junior front end developer, also known as hosseiw!</h4>
