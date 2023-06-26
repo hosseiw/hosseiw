@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://hosseiw.ir" style="background:black;border-radius:20px;"><img src="https://avatars.githubusercontent.com/u/106887297?v=4" alt="hosseinaraby" width="200"></a>
+  <a href="https://hosseiw.ir" style="border: 2px solid  gray;"><img src="https://avatars.githubusercontent.com/u/106887297?v=4" alt="hosseinaraby" width="200"></a>
   <br>
   Hossein Araby (hosseiw)
 </h1>
